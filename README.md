@@ -1,6 +1,5 @@
 # Przetwarzanie Obrazow
 
-link do gitHuba:[GitHub](github.com/MichalS098/przetwarzanie2)  
 
 ## PL
 
