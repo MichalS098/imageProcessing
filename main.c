@@ -128,8 +128,6 @@ int main(int argc, char **argv) {
     }
     exit(0);
 }
-//musze dokonczyc funkcje splotu, w funkcje.c
-// i testy zrobic
 
 /*TESTY JEDNOSTKOWE:
 
