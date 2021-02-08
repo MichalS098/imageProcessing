@@ -10,7 +10,7 @@
 * PRE: Program potrafi wykonywac edycje jedynie na plikach .ppm, .pgm.                           *
 *      Program przystosowany do dzialania w systemie linux                                       *
 *      Zalecane jest posiadanie programu ImageMagick by program mial mozliwosc wyswietlania zdjec*
-* POST: BRAK                                                                                     *
+* POST: Program edytuje obrazy i zapisuje zmienione obrazy do pliku wskazanego przez uzytkownika *
 *                                                                                                *
 *                                                                                                *
 *------------------------------------------------------------------------------------------------*/
